@@ -1,0 +1,51 @@
+body{
+    background-color:  rgb(207, 202, 189);
+}
+h1{
+    background-color: #212529;
+        position: relative;
+        padding-left: 14px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-right: 14px;
+        text-align: center;
+        color: antiquewhite;
+}
+.pre{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-size:cover;
+    background-color: #212529;
+    color: antiquewhite;
+}
+.name1{
+    border: #212529;
+    background: none;
+    color: rgb(11, 10, 10);
+}
+.talk{
+    background-color: rgb(5, 76, 63);
+        color:rgb(241, 240, 237);
+        font-size: large;
+        padding-left: 50px; 
+        padding-right: 50px;      
+        padding-top: 50px;
+        padding-bottom: 0px;
+        height: 300px;
+        text-align: center; 
+        transition: transform 1s;
+        cursor:pointer;
+
+}
+.footer{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #292424; /* Optional: Add a background color */
+    color: antiquewhite;
+    
+  }
+  
+  .footer-text {
+    margin: 0;
+  }

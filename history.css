@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+.header{
+    background-color: #212529;
+    color: antiquewhite;
+    background-position: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.para{
+    background-color: rgb(5, 76, 63);
+        color:rgb(241, 240, 237);
+        font-size: large;
+        padding-left: 50px; 
+        padding-right: 50px;      
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 350px;
+        text-align: center; 
+        transition: transform 1s;
+        cursor:pointer;
+}
+.footer{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #292424; /* Optional: Add a background color */
+    color: antiquewhite;
+    
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
+  

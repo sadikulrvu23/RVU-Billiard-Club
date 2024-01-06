@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(236, 225, 211);
+}
+.head{
+    background-color: #212529;
+        padding-left: 14px;
+        padding-top: 14px;
+        padding-bottom: 20px;
+        padding-right: 14px;
+        color:white;
+}
+.para{
+    background-color: rgb(5, 76, 63);
+        color:rgb(241, 240, 237);
+        font-size: large;
+        padding-left: 60px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 45px;
+        width:500px;
+        height: 200px;
+        text-align: center;
+        margin-left: 420px;
+        transition: transform 1s;
+        cursor:pointer;
+}
+.footer{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #292424; /* Optional: Add a background color */
+    color: antiquewhite;
+    
+  }
+  
+  .footer-text {
+    margin: 0;
+  }

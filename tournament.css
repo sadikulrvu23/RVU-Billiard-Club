@@ -1,0 +1,59 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align:left;
+    padding: 20px;
+}
+.text{
+    text-align: center;
+}
+
+
+.tournament-updates {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(88, 66, 66, 0.1);
+    background-color: #212529;
+    color: antiquewhite;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.tournament-info p {
+    margin-bottom: 10px;
+}
+
+.upcoming-tournaments {
+    list-style-type: none;
+    padding: 0;
+}
+
+.upcoming-tournaments li {
+    margin-bottom: 10px;
+}
+
+.footer{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #292424; 
+    color: antiquewhite;
+    
+  }
+  
+  .footer-text {
+    margin: 0;
+  }

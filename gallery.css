@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(236, 225, 211);
+}
+.head{
+    background-color: #212529;
+        padding-left: 14px;
+        padding-top: 14px;
+        padding-bottom: 20px;
+        padding-right: 14px;
+        color:white;
+}
+.footer{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #292424; /* Optional: Add a background color */
+    color: antiquewhite;
+    
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
